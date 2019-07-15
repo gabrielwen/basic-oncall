@@ -1,6 +1,6 @@
 # basic-oncall
 **MVP requirements**
-- [ ] Generate rotation list.
+- [ ] Generate rotation list and editors can update it.
 - [ ] Output rotations to calendar.
 - [ ] Users are able to file request to join the list and admin control for
   requests.
